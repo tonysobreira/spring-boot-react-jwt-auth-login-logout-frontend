@@ -1,6 +1,7 @@
 import axios from 'axios'
 
-const API_URL = 'http://localhost:8080'
+//const API_URL = 'http://localhost:8080'
+const API_URL = 'https://spring-boot-react-jwt-backend.herokuapp.com/'
 
 export const USER_NAME_SESSION_ATTRIBUTE_NAME = 'authenticatedUser'
 
