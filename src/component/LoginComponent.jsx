@@ -76,6 +76,8 @@ class LoginComponent extends Component {
                     Password: <input type="password" name="password" value={this.state.password} onChange={this.handleChange} />
                     <button className="btn btn-success" onClick={this.loginClicked}>Login</button>
                 </div>
+            <p>in28minutes</p>
+            <p>dummy</p>
             </div>
         )
     }
